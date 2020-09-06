@@ -1,0 +1,125 @@
+.imageContainer
+{
+    background:url('food-wallpaper.png');
+    height:80%;
+    width:100%;
+   background-repeat:no-repeat;
+   border-style: solid;
+   border-color: white;
+   background-size: cover;
+}
+.logo
+{
+    text-align: center;
+    color: red;
+    font-size:60px;
+    background-color: white;
+    height:90px;
+    width: 90px;
+    margin:auto;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 40px;
+
+}
+.heading
+{
+    font-weight: bold;
+    text-align: center;
+    font-size:40px;
+    color:white;
+    margin-top:30px;
+    font-family: poppins;
+    margin-bottom: 30px;
+    
+    
+}
+.locationSelector{
+    text-align: center;
+}
+.locationDropDown{
+    width:200px;
+    height:36px;
+    border-radius: 0%;
+    margin-top:40px;
+    margin-bottom: 100px;
+    font-weight: bold;
+    border:none;
+    font-size: 17px;
+    margin-right: 15px;
+    
+
+}
+.restaurantsInput
+{
+    border:none;
+    width:300px;
+    height:36px;
+    border-radius: 0%;
+    font-size: 16px;
+    margin-top:20px;
+    font-weight: bold;
+    margin-bottom: 100px;
+    border-right: 20px;
+
+
+}
+.quickSearchContainer
+{
+     
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+.quickSearchHeading
+{
+    font-weight: bold;
+    font-size:30px;
+    color: #192f60;
+    font-weight: poppins;
+    line-height: 0.5;
+  
+    
+}
+.quickSearchSubHeading
+{
+    color: grey;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 0.2;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    
+}
+.tileContainer
+{
+    margin-top: 15px;
+   margin-right: 50px;
+   margin-bottom: 30px;
+   width:300px;
+   background-color: white;
+   float: left;
+   box-shadow: 0 3px 8px ;
+
+    
+}
+.tileComponent1
+{
+width:60%;
+float: left;
+}
+
+.componentHeading{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    color:#192f60 ;
+    font-family: poppins;
+
+}
+.componentSubHeading
+{
+margin-top: 10px;
+color: grey;
+font-family: poppins;
+}
